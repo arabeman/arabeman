@@ -1,4 +1,4 @@
-![arabeman banner](banner.png)
+![arabeman banner](banner.webp)
 
 ## Hi there, I am Mikaia 👋
 
