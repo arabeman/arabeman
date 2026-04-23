@@ -1,10 +1,26 @@
-![arabeman banner](banner.webp)
+![arabeman banner](banner.png)
 
-## Hi there 👋
+## Hi there, I am Mikaia 👋
 
 <p align="center">
   developer • autodidact • 42 antananarivo student
 </p>
+
+---
+
+### Abut me
+Student at 42 Antananarivo 🇲🇬 
+
+I build things with C, C++, and modern web tools.  
+Interested in systems programming, real-time apps, and clean UI.  
+Currently leveling up one project at a time.
+
+<p align="center">
+  <i>Code, Debug, Repeat</i>
+</p>
+
+### Tech Stack
+---
 
 <p align="center">
   <a href="https://reactjs.org">
