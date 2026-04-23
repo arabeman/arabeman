@@ -6,7 +6,7 @@
   developer • autodidact • 42 antananarivo student
 </p>
 
----
+
 
 ### Abut me
 Student at 42 Antananarivo 🇲🇬 
@@ -20,7 +20,7 @@ Currently leveling up one project at a time.
 </p>
 
 ### Tech Stack
----
+
 
 <p align="center">
   <a href="https://reactjs.org">
